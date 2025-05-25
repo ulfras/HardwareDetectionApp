@@ -1,1 +1,1 @@
-# NetworkTestApp
+# HardwareDetectionApp
